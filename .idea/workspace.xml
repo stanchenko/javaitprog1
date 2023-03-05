@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b71941-a1bd-442c-b52c-70321b6bbf41" name="Changes" comment="">
-<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/lesson5/Main.java" afterDir="false" />
-=======
+      <change afterPath="$PROJECT_DIR$/src/lesson6/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
->>>>>>> 6f2ff30fdcd8bede3e4474185d58cf2953c42b81
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +37,12 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.lesson5.Main">
-=======
-  <component name="RunManager" selected="Application.lesson4.Main">
->>>>>>> 6f2ff30fdcd8bede3e4474185d58cf2953c42b81
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lesson6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.lesson6.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="19" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -93,14 +92,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lesson6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson6.Main" />
+      <module name="javaitprog1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.lesson6.Main" />
       <item itemvalue="Application.lesson5.Main" />
       <item itemvalue="Application.lesson4.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson6.Main" />
         <item itemvalue="Application.lesson5.Main" />
         <item itemvalue="Application.lesson4.Main" />
         <item itemvalue="Application.Main" />
