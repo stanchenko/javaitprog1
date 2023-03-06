@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b71941-a1bd-442c-b52c-70321b6bbf41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson11/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
       <recent name="lesson6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.lesson11.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson10.Main" />
       <module name="javaitprog1" />
@@ -62,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson8.doWhileLoop.listing2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson8.doWhileLoop.listing2.Main" />
+    <configuration name="lesson11.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson11.Main" />
       <module name="javaitprog1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson8.doWhileLoop.listing2.*" />
+          <option name="PATTERN" value="lesson11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,7 +116,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.lesson8.doWhileLoop.listing2.Main" />
+      <item itemvalue="Application.lesson11.Main" />
       <item itemvalue="Application.lesson8.whileLoop.Main" />
       <item itemvalue="Application.lesson9.listing1.Main" />
       <item itemvalue="Application.lesson9.listing2.Main" />
@@ -124,11 +124,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson11.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.lesson9.listing2.Main" />
         <item itemvalue="Application.lesson9.listing1.Main" />
         <item itemvalue="Application.lesson8.whileLoop.Main" />
-        <item itemvalue="Application.lesson8.doWhileLoop.listing2.Main" />
       </list>
     </recent_temporary>
   </component>
