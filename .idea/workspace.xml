@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b71941-a1bd-442c-b52c-70321b6bbf41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson14/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +37,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/nazarstanchenko/IdeaProjects/javaitprog1/src/lesson14"
+    "last_opened_file_path": "/Users/nazarstanchenko/IdeaProjects/javaitprog1/src/lesson15"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lesson15" />
       <recent name="$PROJECT_DIR$/src/lesson14" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">

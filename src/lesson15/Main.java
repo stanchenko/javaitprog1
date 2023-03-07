@@ -1,6 +1,4 @@
-package lesson14;
-
-import lesson15.Student;
+package lesson15;
 
 public class Main {
     public static void main(String[] args) {
@@ -15,13 +13,6 @@ public class Main {
 
         Person dima = new Person("Dima");
         System.out.println("My name is " + dima.name);
-        System.out.println("");
-
-        Student freshmean = new Student(176, "Victor", 2);
-        Student freshmean2 = new Student(156, "Danil", 3);
-
-        freshmean.tell();
-        freshmean2.tell();
 
     }
 }
