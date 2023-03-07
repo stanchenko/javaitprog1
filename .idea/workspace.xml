@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b71941-a1bd-442c-b52c-70321b6bbf41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson15/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson15/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson15/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson16/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson16/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson16/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson16/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson16/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson14/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,15 +32,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Git.Branch.Popup.ShowAllRemotes": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/nazarstanchenko/IdeaProjects/javaitprog1/src/lesson15"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Git.Branch.Popup.ShowAllRemotes&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nazarstanchenko/IdeaProjects/javaitprog1/src/lesson15&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/lesson15" />
@@ -49,7 +50,7 @@
       <recent name="lesson6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lesson14.Main">
+  <component name="RunManager" selected="Application.lesson16.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson10.Main" />
       <module name="javaitprog1" />
@@ -110,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson9.listing2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson9.listing2.Main" />
+    <configuration name="lesson16.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson16.Main" />
       <module name="javaitprog1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson9.listing2.*" />
+          <option name="PATTERN" value="lesson16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,17 +128,17 @@
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.lesson13.Main" />
       <item itemvalue="Application.lesson14.Main" />
+      <item itemvalue="Application.lesson16.Main" />
       <item itemvalue="Application.lesson11.Main" />
-      <item itemvalue="Application.lesson9.listing2.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson16.Main" />
         <item itemvalue="Application.lesson14.Main" />
         <item itemvalue="Application.lesson13.Main" />
         <item itemvalue="Application.lesson11.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.lesson9.listing2.Main" />
       </list>
     </recent_temporary>
   </component>
