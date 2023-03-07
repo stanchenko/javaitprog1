@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b71941-a1bd-442c-b52c-70321b6bbf41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson13/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson14/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,20 +29,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Git.Branch.Popup.ShowAllRemotes&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Git.Branch.Popup.ShowAllRemotes": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/nazarstanchenko/IdeaProjects/javaitprog1/src/lesson14"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lesson14" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lesson6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lesson13.Main">
+  <component name="RunManager" selected="Application.lesson14.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson10.Main" />
       <module name="javaitprog1" />
@@ -90,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson9.listing1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson9.listing1.Main" />
+    <configuration name="lesson14.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson14.Main" />
       <module name="javaitprog1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson9.listing1.*" />
+          <option name="PATTERN" value="lesson14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,18 +123,18 @@
     <list>
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.lesson13.Main" />
+      <item itemvalue="Application.lesson14.Main" />
       <item itemvalue="Application.lesson11.Main" />
-      <item itemvalue="Application.lesson9.listing1.Main" />
       <item itemvalue="Application.lesson9.listing2.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson14.Main" />
         <item itemvalue="Application.lesson13.Main" />
         <item itemvalue="Application.lesson11.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.lesson9.listing2.Main" />
-        <item itemvalue="Application.lesson9.listing1.Main" />
       </list>
     </recent_temporary>
   </component>
