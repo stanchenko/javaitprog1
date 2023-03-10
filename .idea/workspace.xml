@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b71941-a1bd-442c-b52c-70321b6bbf41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson21/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson21/Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson22/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson22/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson22/MyArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaitprog1/lesson21/Math.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaitprog1/lesson21/Math.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,7 +50,7 @@
       <recent name="lesson6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lesson21.Main">
+  <component name="RunManager" selected="Application.lesson22.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson18.Main" />
       <module name="javaitprog1" />
@@ -65,19 +68,6 @@
       <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="javaitprog1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lesson17.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson17.Main" />
-      <module name="javaitprog1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,21 +111,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lesson22.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson22.Main" />
+      <module name="javaitprog1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.lesson17.Main" />
       <item itemvalue="Application.lesson19.Main" />
       <item itemvalue="Application.lesson20.Main" />
       <item itemvalue="Application.lesson21.Main" />
+      <item itemvalue="Application.lesson22.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson22.Main" />
         <item itemvalue="Application.lesson21.Main" />
         <item itemvalue="Application.lesson20.Main" />
         <item itemvalue="Application.lesson19.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.lesson17.Main" />
       </list>
     </recent_temporary>
   </component>
